@@ -11,7 +11,7 @@ module.exports = {
       .setTitle('⚡ PowerCoreSMP Player Guide')
       .setDescription(
         'Everything you need to know about Power Cores, abilities, crafting, rituals, and survival.\n\n' +
-        '**[Open the Full Guide](https://gamercr4cked.github.io/pcsmp-guide/)**'
+        '**[Open the Full Guide](https://gamercr4cked.github.io/PowerCoreSMP/)**'
       )
       .addFields(
         { name: '🚀 Quick Start', value: '`/core-equip` → Select hotbar slot → `SHIFT + RIGHT CLICK`', inline: false },

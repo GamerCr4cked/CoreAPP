@@ -273,7 +273,7 @@ async function handleInteraction(interaction) {
       new ButtonBuilder()
         .setLabel('Open Guide')
         .setStyle(ButtonStyle.Link)
-        .setURL('https://gamercr4cked.github.io/pcsmp-guide/')
+        .setURL('https://gamercr4cked.github.io/PowerCoreSMP/')
         .setEmoji('📖')
     );
 
